@@ -51,16 +51,7 @@ Kategori : Makanan, Minuman
 Belanja terbesar: Pecel Lele
 ```
 
-![skenario 2](screenshots/pertemuan2.png)
-
-### Skenario 3: ada pesanan yang salah
-Input: `2xM02, 3xM99, abc, 1xM05`
-
-```text
-(tempel output asli dari terminal di sini)
-```
-
-![skenario 3](screenshots/skenario3.png)
+![skenario 2](screenshots/skenario2.png)
 
 ## Penjelasan
 
